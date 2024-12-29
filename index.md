@@ -1,15 +1,17 @@
 ---
 layout: default
-title: Blog Saya
+title: "Blog Saya"
 ---
-
 <link rel="stylesheet" href="/custom.css">
+# Selamat datang di Blog Saya!
 
-# Blog Saya dengan Gaya Minima yang Dimodifikasi
+Di bawah ini adalah daftar posting terbaru saya:
 
-Selamat datang di blog saya!  
-Berikut daftar artikel saya:
-
-- [Artikel 1](artikel-1.md)
-- [Artikel 2](artikel-2.md)
-- [Artikel 3](artikel-3.md)
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <p>{{ post.excerpt | strip_html | truncatewords: 20 }}</p>
+    </li>
+  {% endfor %}
+</ul>
