@@ -1,7 +1,6 @@
 title: Blog Saya
 description: Blog Markdown dengan Kategori
-theme: minima
-minima:
+theme: cayman
   include_stylesheets:
     - /custom.css
 
