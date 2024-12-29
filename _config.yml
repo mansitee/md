@@ -2,7 +2,7 @@
 title: Blog Saya
 description: Blog pribadi saya tentang perjalanan
 url: "https://username.github.io"  # Ganti dengan URL repositori GitHub Pages Anda
-baseurl: ""  # Jika menggunakan subdirektori, sesuaikan
+baseurl: "/md/"  # Jika menggunakan subdirektori, sesuaikan
 
 # Tambahkan custom stylesheet
 sass:
