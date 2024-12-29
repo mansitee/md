@@ -3,7 +3,7 @@ layout: default
 title: Blog Saya
 ---
 
-<link rel="stylesheet" href="/assets/css/custom.css">
+<link rel="stylesheet" href="/custom.css">
 
 # Blog Saya dengan Gaya Minima yang Dimodifikasi
 
