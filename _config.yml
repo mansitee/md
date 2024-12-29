@@ -1,4 +1,7 @@
 title: Blog Saya
 description: Blog Markdown dengan Kategori
-theme: jekyll-theme-minimal
+theme: minima
+minima:
+  include_stylesheets:
+    - /custom.css
 
