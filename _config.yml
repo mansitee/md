@@ -11,7 +11,7 @@ sass:
 # Menyertakan CSS kustom
 include:
   - _posts
-  - assets/css/custom.css  # Menyertakan file custom.css
+  - custom.css  # Menyertakan file custom.css
 
 # Optional: Jika Anda ingin menambahkan lebih banyak file ke dalam output
 exclude:
