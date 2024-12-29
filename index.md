@@ -1,7 +1,15 @@
-# Blog Markdown
+---
+layout: default
+title: Blog Saya
+---
 
-Selamat datang di blog saya! Klik tautan di bawah untuk membaca artikel:
+<link rel="stylesheet" href="/assets/css/custom.css">
 
-- [Artikel 1: Perjalanan dari Karawang ke Yogyakarta](artikel-1.md)
-- [Artikel 2: Mengapa Memilih Kereta Api?](artikel-2.md)
-- [Artikel 3: Tips Perjalanan Hemat](artikel-3.md)
+# Blog Saya dengan Gaya Minima yang Dimodifikasi
+
+Selamat datang di blog saya!  
+Berikut daftar artikel saya:
+
+- [Artikel 1](artikel-1.md)
+- [Artikel 2](artikel-2.md)
+- [Artikel 3](artikel-3.md)
