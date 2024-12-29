@@ -1,1 +1,0 @@
-selalu salah dan perbaiki
